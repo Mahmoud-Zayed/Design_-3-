@@ -1,0 +1,14 @@
+/* Start Variables */
+:root {
+    --main-color: #2196f3;
+    --main-color-alt: #1787e0;
+    --main-color-two: #001233;
+    --main-transition: all 0.3s ease-in-out;
+    --second-transition: 0.3s;
+    --main-background-color: #EBF5FF;
+    --shadow-color: #D6E9FF;
+    --color-background: #F3F4F6;
+    --main-padding: 100px;
+    --paragragh-color: #485C84;
+}
+/* End Variables */
